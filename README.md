@@ -15,7 +15,7 @@ cd cadastro-produtos
 3. Instale as dependências:
 npm install
 
-npm install express ejs sequelize sqlite3
+  npm install express ejs sequelize sqlite3
 
 4. Execute o projeto:
 npm start
